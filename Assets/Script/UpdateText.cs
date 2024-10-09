@@ -17,7 +17,7 @@ public class UpdateText : MonoBehaviour
 
     private IEnumerator UpdateTextX()
     {
-        while (true) // Bucle infinito para actualizar continuamente
+        while (true) //Bucle infinito para actualizar continuamente
         {
             string newText = "";
 
